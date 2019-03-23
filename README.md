@@ -1,6 +1,8 @@
 # Microexpression_recognition
 基于DNN实现实时分辨人脸微表情
 
+所需环境：opencv + tensorflow1.8 + pycharm
+
 demo.py 调用系统摄像头完成实时识别人脸微表情
 
 main.py 包含训练模型、测试模型的接口
