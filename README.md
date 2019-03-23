@@ -12,3 +12,5 @@ utils.py 对数据集合的预处理
 model这个文件夹包含我已经训练好的模型
 
 你可以自己通过训练数据进行模型的训练，或者可以直接读取我已经训练好的模型
+
+数据集的下载地址：https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
