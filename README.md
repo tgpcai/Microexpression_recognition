@@ -17,4 +17,6 @@ model这个文件夹包含我已经训练好的模型
 
 数据集的下载地址：https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
+由于中科院微表情数据集不好公众，所以有需要请私信我！
+
 具体过程可以参考我的博客：https://www.cnblogs.com/XDU-Lakers/p/10587894.html
